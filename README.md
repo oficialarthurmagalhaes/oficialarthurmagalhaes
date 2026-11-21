@@ -17,7 +17,7 @@
 
 ### 🙋‍♂️ Sobre mim
 
-Sou estudante de **Sistemas de Informação** e trabalho na área de **Tecnologia de um escritório de contabilidade**. No dia a dia, vejo de perto como planilhas, processos manuais e consultas repetitivas tomam o tempo das pessoas, e é isso que me motiva a programar: **transformar tarefas repetitivas em soluções simples**.
+Sou estudante de **Sistemas de Informação** e já atuo na área de **Tecnologia**. No dia a dia, vejo de perto como planilhas, processos manuais e consultas repetitivas tomam o tempo das pessoas, e é isso que me motiva a programar: **transformar tarefas repetitivas em soluções simples**.
 
 - 🐍 Uso **Python** para automatizar tarefas e consumir APIs
 - 🌐 Desenvolvo sites e sistemas web com **PHP, MySQL e JavaScript**
