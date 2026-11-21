@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/oficialarthurmagalhaes">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Python+%7C+PHP+%7C+React+Native;Automatizando+o+que+se+repete;Em+busca+de+est%C3%A1gio+em+tecnologia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Python+%7C+PHP+%7C+React+Native;Automatizando+o+que+se+repete" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/arthurdasilvamagalhaes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:oficialarthurmagalhaes@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
   <img src="https://img.shields.io/badge/Paraíso%20do%20Tocantins%20--%20TO-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização">
-  <img src="https://img.shields.io/badge/Aberto%20a%20est%C3%A1gio-8957E5?style=for-the-badge&logo=rocket&logoColor=white" alt="Aberto a estágio">
 </p>
 
 ---
@@ -23,10 +22,6 @@ Sou estudante de **Sistemas de Informação** e já atuo na área de **Tecnologi
 - 🌐 Desenvolvo sites e sistemas web com **PHP, MySQL e JavaScript**
 - 📱 Tenho experiência com mobile em **React Native + Expo**
 - 🤖 Tenho interesse em **Inteligência Artificial** aplicada a problemas reais
-
-### 🎯 O que estou buscando
-
-Uma oportunidade de **estágio** em desenvolvimento, dados ou IA, em um time onde eu possa aprender com gente experiente, contribuir com código de verdade e evoluir rápido.
 
 ### 🛠️ Tecnologias
 
@@ -55,6 +50,6 @@ Uma oportunidade de **estágio** em desenvolvimento, dados ou IA, em um time ond
 
 ### 📫 Vamos conversar?
 
-Se você tem uma vaga, um projeto ou só quer trocar uma ideia sobre tecnologia, **me chama no [LinkedIn](https://www.linkedin.com/in/arthurdasilvamagalhaes) ou por [e-mail](mailto:oficialarthurmagalhaes@gmail.com)**.
+Quer trocar uma ideia sobre tecnologia ou algum projeto? **Me chama no [LinkedIn](https://www.linkedin.com/in/arthurdasilvamagalhaes) ou por [e-mail](mailto:oficialarthurmagalhaes@gmail.com)**.
 
 <p align="center"><i>"Se uma tarefa se repete todo dia, ela merece um código."</i></p>
